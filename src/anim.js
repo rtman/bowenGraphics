@@ -18,8 +18,8 @@ const frame = 0;
 const TAU = Math.PI * 2;
 
 const colors = ['green', 'red', 'blue'];
-const pixelSize = {height: 50, width: 100};
-const fillSize = {height: 5, width: 150};
+const pixelSize = {height: 100, width: 100};
+const fillSize = {height: 15, width: 150};
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
